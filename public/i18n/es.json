@@ -1,0 +1,23 @@
+{
+  "app": {
+    "title": "Plataforma de Inventario de Barnes & Noble",
+    "logo-alt": "Logo de Barnes & Noble"
+  },
+  "option": {
+    "bookstore-overview": "Resumen de Librerías",
+    "receive-books": "Recibir Libros"
+  },
+  "bookstore-overview": {
+    "title": "Resumen de Librerías",
+    "content": "Monitorea la Disponibilidad de Libros en Nuestras Tiendas"
+  },
+  "book-stock-form": {
+    "title": "Recibir Libros",
+    "subtitle": "Registra Libros en tu Librería"
+  },
+  "page-not-found": {
+    "title": "Página No Encontrada",
+    "content": "La ruta {{invalidPath}} no fue encontrada.",
+    "go-to-overview": "Ir al Resumen de Librerías"
+  }
+}
